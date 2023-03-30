@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/varvara/mipt/projects/Shuvalov_test/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/main.cpp.o -c /home/varvara/mipt/projects/Shuvalov_test/main.cpp",
+  "file": "/home/varvara/mipt/projects/Shuvalov_test/main.cpp"
+},
+{
+  "directory": "/home/varvara/mipt/projects/Shuvalov_test/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/game.cpp.o -c /home/varvara/mipt/projects/Shuvalov_test/game.cpp",
+  "file": "/home/varvara/mipt/projects/Shuvalov_test/game.cpp"
+},
+{
+  "directory": "/home/varvara/mipt/projects/Shuvalov_test/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/room.cpp.o -c /home/varvara/mipt/projects/Shuvalov_test/room.cpp",
+  "file": "/home/varvara/mipt/projects/Shuvalov_test/room.cpp"
+},
+{
+  "directory": "/home/varvara/mipt/projects/Shuvalov_test/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/item.cpp.o -c /home/varvara/mipt/projects/Shuvalov_test/item.cpp",
+  "file": "/home/varvara/mipt/projects/Shuvalov_test/item.cpp"
+},
+{
+  "directory": "/home/varvara/mipt/projects/Shuvalov_test/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/action.cpp.o -c /home/varvara/mipt/projects/Shuvalov_test/action.cpp",
+  "file": "/home/varvara/mipt/projects/Shuvalov_test/action.cpp"
+}
+]
